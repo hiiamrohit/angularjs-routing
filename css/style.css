@@ -1,0 +1,11 @@
+  .box {
+    	width:33%; 
+    	float:left;
+    	color:green;
+    	font-size:16px;
+    }
+
+    #content {
+    	text-align:center;
+    	margin-top:10%;
+    }
