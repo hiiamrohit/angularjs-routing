@@ -1,3 +1,10 @@
+/*
+* Author: Rohit Kumar
+* Date: 26-06-2015
+* Website: iamrohit.in
+* App Name: angularjs routing
+* Description: Routing example in angular.js
+*/
 var rohitApp = angular.module('rohitApp',['ngRoute'])
      .config(function($routeProvider){
      	$routeProvider
